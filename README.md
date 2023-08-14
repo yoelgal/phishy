@@ -2,7 +2,7 @@
 
 Phishy is a platform designed to train users in cyber vigilance by simulating phishing attempts and then educating them on the topic.
 
-## Table of Contents
+## Table of Contents 
 
 - [Features](#features)
 - [Getting Started](#getting-started)
